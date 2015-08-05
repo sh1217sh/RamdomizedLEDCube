@@ -4,7 +4,7 @@ Ramdomized LED Cube for Arduino
 Make arduino to display random patterns to a LED cube.
 
 ## License
-Copyright (C) 2015 Sung-ho Lee (a.k.a. YamaeCoder) <sh1217sh@gmail.com>
+Copyright (C) 2015 Sung-ho Lee (a.k.a. YameCoder) <sh1217sh@gmail.com>
 
 You can do whatever you want including modifying, redistributing, using commocially, etc. if you retain this license claim.
 
