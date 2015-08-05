@@ -15,15 +15,17 @@
  * ********************************
  * 
  */
- 
+
+// ==== Configuration ====
 #define NUMBER_OF_LAYERS 2
 #define LEDS_ON_A_LAYER 4
 #define DURATION 750
 
-boolean currentPattern[NUMBER_OF_LAYERS][LEDS_ON_A_LAYER];
-
 const byte layers[NUMBER_OF_LAYERS] = {9, 8};
 const byte leds[LEDS_ON_A_LAYER] = {13, 12, 11, 10};
+// =======================
+
+boolean currentPattern[NUMBER_OF_LAYERS][LEDS_ON_A_LAYER];
 
 long lastMillis = 0;
 
