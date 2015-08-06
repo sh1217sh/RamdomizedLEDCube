@@ -2,14 +2,14 @@
  * 
  * Randomized LED Cube
  * 
- * Author: Sung-ho Lee (a.k.a. YamaeCoder) <sh1217sh@gmail.com>
+ * Author: Sung-ho Lee (a.k.a. YameCoder) <sh1217sh@gmail.com>
  * 
  * Hardware configuration : Common cathod for each layer. Any size you want as the number of Arduino pins allows.
  * 
  * TESTED WITH ARDUINO UNO AND CUSTOM MADE LED CUBE. THE AUTHOR DOES NOT GARANTEE WHETHER THIS SOFTWARE IS APPLICATABLE ON OTHER ENVIRONMENTS.
  * 
  * ***** LICENSE (IMPORTANT!) *****
- * Copyright (C) 2015 Sung-ho Lee (a.k.a. YamaeCoder) <sh1217sh@gmail.com>
+ * Copyright (C) 2015 Sung-ho Lee (a.k.a. YameCoder) <sh1217sh@gmail.com>
  * 
  * You can do whatever you want including modifying, redistributing, using commocially, etc. if you retain this license claim.
  * ********************************
